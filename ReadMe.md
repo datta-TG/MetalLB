@@ -88,7 +88,7 @@ The following checkmark and the word 'normal' will appear once the Kubernetes Cl
 
 `$ kubectl get ns`
 
-![Screenshot](testmetal1.png)
+![Screenshot](testmetal1.PNG)
 
 * Check the namespace _metal-example_ or the namespace you have specific in namespace, and make sure the pods are running.
 
